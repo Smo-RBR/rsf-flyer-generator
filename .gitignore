@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+.env
+
+# IDE / Tooling
+.vscode/
+.idea/
+.windsurf/
+*.code-workspace
+
+# Outputs
+*.png
+*.html
+
+# Local state
+last_save_path.txt
+
+# PyInstaller
+build/
+dist/
+
+# Playwright cache (optional)
+.playwright/
